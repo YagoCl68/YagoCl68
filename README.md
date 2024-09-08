@@ -6,7 +6,7 @@
 </div>
 
 <div align="left">
- <p align="left"">Programming Language</p>
+ <h3 align="left"">Programming Language</h3>
 
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -18,7 +18,7 @@
 
 
 <div align="left" >
-  <p align="left">Redes Sociais</p>
+  <h3 align="left">Redes Sociais</h3>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
 </div>
