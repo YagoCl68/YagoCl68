@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**YagoCl68/YagoCl68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&duration=4000&pause=1000&color=3FC645&center=true&width=1000&lines=Ol%C3%A1%2C+Mundo!!;Seja+bem-vindo(a)+ao+meu+GitHub!;Eu+Fa%C3%A7o+Programa!!)](https://git.io/typing-svg)
+---
+<div >
+<img align="right" width="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+ <h2 align="left" style="margin-bottom: 0;">Programming Language</h2>
+
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+</div>
+
+
+
+<div align="left">
+  <h2 align="left" style="margin-bottom: 0;">redes sociais</h2>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+</div>
+</div>
+
+# ![snake gif](https://github.com/YagoCl68/YagoCl68/blob/output/github-contribution-grid-snake-dark.gif)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3FC645&height=120&section=footer"/>
+
+
+
+
+
+
+
+
