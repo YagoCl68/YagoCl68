@@ -7,7 +7,7 @@
 
 <div align="left">
  <h3 align="left">Programming Language</h3>
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img  src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
