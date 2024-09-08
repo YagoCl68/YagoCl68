@@ -25,7 +25,8 @@
 </div>
 </div>
 
-# ![snake gif](https://github.com/YagoCl68/YagoCl68/blob/output/github-contribution-grid-snake-dark.gif)
+<img src="https://raw.githubusercontent.com/YagoCl68/YagoCl68/output/snake.svg" alt="Snake animation" />
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3FC645&height=120&section=footer"/>
 
