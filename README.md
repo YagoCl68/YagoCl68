@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=node js" height="30" alt="NODE JS"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="NODE JS"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres"  />
   <img width="12" />
