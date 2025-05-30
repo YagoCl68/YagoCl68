@@ -1,9 +1,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&duration=4000&pause=1000&color=3FC645&center=true&width=1000&lines=Ol%C3%A1%2C+Mundo!!;Seja+bem-vindo(a)+ao+meu+GitHub!;Eu+Fa%C3%A7o+Programa!!)](https://git.io/typing-svg)
-<div >
-<img align="right" width="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">  
-</div>
 
 <div align="left">
  <h3 align="left">Estudando..</h3>
